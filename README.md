@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+A Grade 2020 CST Student in Sun Yat-Sen University.
+
+Lots to do & lots to learn.
+
+[![Linloir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linloir)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Linloir/Linloir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
