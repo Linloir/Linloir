@@ -4,6 +4,13 @@ A Grade 2020 CST Student in Sun Yat-Sen University.
 
 Lots to do & lots to learn.
 
+Contact me at:
+- `WeChat Account` : ChongYu_Zhang
+- `Email Addr` : zhangchy88@mail2.sysu.edu.cn
+
+Find out my recent activities at:
+- `Bilibili Space` : https://space.bilibili.com/57762388
+
 [![Linloir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linloir)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
