@@ -13,6 +13,8 @@ Find out my recent activities at:
 
 [![Linloir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linloir)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linloir)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Linloir/Linloir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
