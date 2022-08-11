@@ -10,7 +10,7 @@ Contact me at:
 
 Find out my recent activities at:
 - `Bilibili Space` : https://space.bilibili.com/57762388
-- `Blog` : https://blog.linloir.xyz
+- `Blog` : https://blog.linloir.cn
 
 | [![Linloir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linloir)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linloir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | -- | -- |
