@@ -8,7 +8,7 @@ My Tech Stack:
 - [x] C / C++
   - [x] Basic
   - [x] Desktop Application development via QT
-  - [ ] Computer Graphics (Learning)
+  - [x] Computer Graphics (Basic pipelining, OpenGL)
   - [ ] Parallel and High performance programming (Interested, not yet scheduled)
   - [ ] Complex algorithms (ACM-oriented)
 - [x] C#
