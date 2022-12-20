@@ -26,7 +26,10 @@ My Tech Stack:
 - [ ] Rust (Scheduled)
 - [ ] Go (Sheduled)
 - [ ] Swift (Scheduled)
-- [ ] Java (Scheduled)
+- [ ] Java (Learning)
+  - [x] Basic specifications
+  - [ ] JVM virtual machine
+  - [ ] Spring family
 - [x] Web Stack
   - [x] JS / TS basic syntax & feature
   - [x] HTML
