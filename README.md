@@ -48,10 +48,7 @@ Find out my recent activities at:
 - `Bilibili Space` : https://space.bilibili.com/57762388
 - `Blog` : https://blog.linloir.cn
 
-| [![Linloir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linloir)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linloir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| -- | -- |
-
-[![Linloir's github activity graph](https://activity-graph.herokuapp.com/graph?username=Linloir&custom_title=my%20contributions&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linloir&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=linloir&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 
 <!--
 **Linloir/Linloir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
