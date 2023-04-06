@@ -1,6 +1,7 @@
 ### About me
 
 A Grade 2020 CST Student in Sun Yat-Sen University.
+Currently working as front-end intern in Tencent, Shenzhen.
 
 Lots to do & lots to learn.
 
@@ -24,7 +25,10 @@ My Tech Stack:
   - [x] Flutter front-end development
   - [x] Dart back-end development
 - [ ] Rust (Scheduled)
-- [ ] Go (Sheduled)
+- [x] Go
+  - [x] Basic syntax
+  - [x] Basic backend development with gorm and gin
+  - [ ] High concurrency
 - [ ] Swift (Scheduled)
 - [ ] Java (Learning)
   - [x] Basic specifications
@@ -35,7 +39,7 @@ My Tech Stack:
   - [x] HTML
   - [x] CSS
   - [ ] Angular (Can fix stuff but can't write from scratch) (NOT IN SCHEDULE)
-  - [ ] React (Learning)
+  - [x] React
   - [ ] Vue (Interested, not yet scheduled)
   - [ ] Uniapp (NOT IN SCHEDULE)
 
