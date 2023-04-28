@@ -42,6 +42,12 @@ My Tech Stack:
   - [x] React
   - [ ] Vue (Interested, not yet scheduled)
   - [ ] Uniapp (NOT IN SCHEDULE)
+- [x] Backend Stack
+  - [x] Prisma ORM (TS / Dart)
+  - [x] GRPC (Go / Dart)
+  - [x] Redis
+  - [x] Isar (Flutter)
+  - [x] GORM (Go)
 
 
 Contact me at:
