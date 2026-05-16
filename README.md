@@ -14,5 +14,3 @@ Contact me at:
 Find out my recent activities at:
 - `Bilibili Space` : https://space.bilibili.com/57762388
 - `Blog` : https://blog.linloir.cn
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linloir&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=linloir&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
